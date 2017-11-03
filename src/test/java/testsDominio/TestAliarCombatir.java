@@ -22,6 +22,7 @@ public class TestAliarCombatir {
 		Assert.assertNotNull(h.getClan());
 		Assert.assertNotNull(h2.getClan());
 	}
+	
 
 	@Test
 	public void testDaniar() {
